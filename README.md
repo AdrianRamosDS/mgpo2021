@@ -1,5 +1,7 @@
 # Modelos Gráficos Probabilísticos - Otoño 2021
 
+## Cambio de ejemplo
+
 En este repositorio se encuentra el material para el curso de modelos gráficos probabilísticos en el periodo de otoño del 2021.
 
 Este curso está dividido en tres módulos.
